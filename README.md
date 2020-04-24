@@ -1,7 +1,6 @@
 LAB_8
 
 Classification - IBM HR Analytics Employee Attrition & Performance
-(Refer attachment for Problem Statement and dataset)
 Objective: Build models using all classification algorithms other than neural networks and and compare the accuracy using methods discussed with them
 Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’ (It's up to you to explore and find patterns in the dataset by asking questions of your choice). Finally, predict the “Attrition” from this data set.
 
